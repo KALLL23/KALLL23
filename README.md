@@ -14,7 +14,7 @@ Saya adalah mahasiswa Informatika dengan peminatan Rekayasa Perangkat Lunak (RPL
 
 **🚀 Recent Projects**
 * **Manajemen Bengkel Ditox's Motor** - Sistem reservasi dan inventaris suku cadang berbasis Web & Flutter.
-* **SampahGo** - Aplikasi optimasi rute dan manajemen sampah.
+* **pilah.in** - Aplikasi optimasi rute dan manajemen sampah.
 * **GamerVault.id** - Platform *top-up* game online.
 
 **📈 GitHub Stats**
